@@ -1,0 +1,65 @@
+.box1 div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 10px;
+margin-top: 20px;
+
+}
+
+.box1{
+    display: flex;
+    gap: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(119, 65, 168);
+    border-radius: 20px;
+    padding-left: 10px;
+}
+
+.box2 div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 10px;
+margin-top: 30px;
+
+}
+
+.box2{
+    
+   
+    width: 400px;
+    height: 400px;
+    background-color: rgb(119, 65, 168);
+    border-radius: 20px;
+    padding-left: 10px;
+    
+}
+
+
+.box3 div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 10px;
+margin-top: 50px;
+
+}
+
+.box3{
+    display: flex;
+    gap: 10px;
+    width: 400px;
+    height: 400px;
+    background-color: rgb(119, 65, 168);
+    border-radius: 20px;
+    padding-left: 10px;
+    flex-wrap: wrap;
+
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+}
